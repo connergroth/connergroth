@@ -7,7 +7,7 @@ I am a second year Computer Science student at CU Boulder.
 
 - 🔭 I’m currently working on [Sonance](https://github.com/connergroth/Sonance/tree/main)
 
-Check out my [coding portfolio!](https://connergroth.netlify.app/)
+- 📁 Check out my [coding portfolio!](https://connergroth.netlify.app/)
 
 
 ## 🌐 Socials:
@@ -24,15 +24,13 @@ Languages:
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
 
-
-Developer Tools: 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
 Libraries/Frameworks: 
 ![ReactJS](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+Developer Tools: 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 
 
