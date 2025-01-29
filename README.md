@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Conner Groth</h1>
+<h1 align="center">Hi, I'm Conner Groth</h1>
 
 # 💫 About Me:
 I am a second year Computer Science student at CU Boulder.
@@ -15,7 +15,7 @@ I am a second year Computer Science student at CU Boulder.
 
 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 Languages: 
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
