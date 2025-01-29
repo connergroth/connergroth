@@ -3,7 +3,7 @@
 ## 💫 About Me:
 I’m a sophomore Computer Science student at CU Boulder with a passion for exploring the realms of coding, machine learning, and building robust real world applications.
 
-## 🚀 What I'm Up To
+## 🚀 What I'm Up To:
 
 - 🔭 I’m currently working on [Sonance](https://github.com/connergroth/Sonance/tree/main)
 
