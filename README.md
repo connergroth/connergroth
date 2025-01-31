@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Conner Groth!</h1>
 
 ## 💫 About Me:
-I’m a sophomore Computer Science student at CU Boulder with a passion for exploring the realms of coding, machine learning, and building robust real world applications.
+I’m a sophomore Computer Science student at CU Boulder with a passion for exploring the realms of coding, machine learning, and building robust real-world applications.
 
 ## 🚀 What I'm Up To:
 
