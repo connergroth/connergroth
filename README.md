@@ -5,9 +5,9 @@ I’m a sophomore Computer Science student at CU Boulder. I'm passionate about e
 
 ## 🚀 What I'm Up To:
 
-- 🔭 I’m currently working on [Sonance](https://github.com/connergroth/Sonance/tree/main)
+- 🌱 I’m currently working on [Sonance](https://github.com/connergroth/Sonance/tree/main)
 
-- 📁 Check out my [coding portfolio!](https://connergroth.netlify.app/)
+- 💼 Check out my [coding portfolio!](https://connergroth.netlify.app/)
 
 
 ## 🌐 Socials:
