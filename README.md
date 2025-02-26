@@ -1,13 +1,13 @@
 <h1 align="center">Hi, I'm Conner Groth!</h1>
 
-# 💫 About Me:
+# 💫 About Me
 I’m a sophomore Computer Science student at CU Boulder. I'm passionate about exploring the realms of coding, machine learning, and building robust real-world applications.
 
 ## 🚀 What I'm Up To:
 
 - 🌱 I’m currently working on [Sonance](https://github.com/connergroth/Sonance/tree/main)
 
-# 💻 Tech Stack:
+# 💻 Tech Stack
 ## Languages: 
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) 
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
