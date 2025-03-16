@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Conner Groth!</h1>
 
 # 💫 About Me
-- ⛰️ CS & Business Student at CU Boulder
+- ⛰️ CS & Business student at CU Boulder
 - 🌱 I’m currently working on [Sonance](https://github.com/connergroth/Sonance/tree/main)
 
 # 💻 Tech Stack
