@@ -1,7 +1,8 @@
 <h1 align="center">Hi, I'm Conner Groth!</h1>
 
 # 💫 About Me
-- ⛰️ CS & Business student at CU Boulder
+- ⛰️ CS & Business student @ CU Boulder
+- 💼 Software Engineer Team Lead @ Blueprint Boulder
 - 🌱 I’m currently working on [Sonance](https://github.com/connergroth/Sonance/tree/main)
 
 # 💻 Tech Stack
