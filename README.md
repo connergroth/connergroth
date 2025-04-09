@@ -2,8 +2,8 @@
 
 # 💫 About Me
 - ⛰️ CS & Business student @ CU Boulder
-- 💼 Software Engineer Team Lead @ Blueprint Boulder
 - 🧬 Software Research Assistant @ Genetic Logic Lab
+- 💼 Software Engineer Team Lead @ Blueprint Boulder
 - 🌱 I’m currently working on [Sonance](https://github.com/connergroth/Sonance/tree/main)
 
 # 💻 Tech Stack
