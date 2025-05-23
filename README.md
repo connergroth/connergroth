@@ -4,7 +4,7 @@
 - ⛰️ CS & Business student @ CU Boulder
 - 🧬 Software Research Assistant @ Genetic Logic Lab
 - 💼 Software Engineer Team Lead @ Blueprint Boulder
-- 🌱 I’m currently working on [PulsePlan](https://github.com/connergroth/PulsePlan)
+- 🌱 I’m currently working on [PulsePlan](https://github.com/flyonthewalldev/PulsePlan)
 
 # 💻 Tech Stack
 ## Languages
