@@ -1,8 +1,13 @@
-<h1 align="center">Hi, I'm Conner Groth!</h1>
+<h1 align="center">Hi, I'm Conner Groth! 
+  
+![Last Commit](https://img.shields.io/github/last-commit/connergroth/connergroth?style=flat-square)
+[![PulsePlan Stars](https://img.shields.io/github/stars/flyonthewalldev/pulseplan?label=PulsePlan%20Stars&style=social)](https://github.com/flyonthewalldev/pulseplan/stargazers)
+</h1>
+
 
 # 💫 About Me
 - ⛰️ CS & Business student @ CU Boulder
-- 🧬 Software Research Assistant @ Genetic Logic Lab
+- 🧬 Undergraduate Researcher & SWE @ Genetic Logic Lab
 - 💼 Software Engineer Team Lead @ Blueprint Boulder
 - 🌱 I’m currently working on [PulsePlan](https://github.com/flyonthewalldev/PulsePlan) & [SeqImprove](https://github.com/MyersResearchGroup/SeqImprove)
 
