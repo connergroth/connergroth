@@ -8,4 +8,4 @@
 - 🌱 I’m currently working on [PulsePlan](https://github.com/flyonthewalldev/PulsePlan) & [SeqImprove](https://github.com/MyersResearchGroup/SeqImprove)
 
 # Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=python,ts,js,cpp,c,react,nextjs,nodejs,flask,fastapi,pytorch,postgres,supabase,redis,docker&perline=17)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,cpp,c,python,react,nextjs,nodejs,flask,fastapi,pytorch,postgres,supabase,redis,docker&perline=17)](https://skillicons.dev)
