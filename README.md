@@ -2,7 +2,7 @@
 
 # About Me
 - ⛰️ CS & Business student @ CU Boulder
-- 🤖 Software Engineer Intern @ Soaper
+- 🤖 AI Software Engineer Intern @ Soaper
 - 🧬 Undergraduate Researcher & SWE @ Genetic Logic Lab
 - 💼 Software Engineer Team Lead @ Blueprint Boulder
 - 🌱 I’m currently working on [PulsePlan](https://github.com/flyonthewalldev/PulsePlan) & [SeqImprove](https://github.com/MyersResearchGroup/SeqImprove)
