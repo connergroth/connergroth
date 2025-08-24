@@ -2,10 +2,11 @@
 
 # About Me
 - ⛰️ CS & Business student @ CU Boulder
-- 🤖 AI Software Engineer Intern @ Soaper
+- 🤖 ML Engineer Intern @ Sorcea
+- 🏥 AI Engineer Intern @ Soaper
 - 🧬 Undergraduate Researcher & SWE @ Genetic Logic Lab
 - 💼 Software Engineer Team Lead @ Blueprint Boulder
-- 🌱 I’m currently working on [PulsePlan](https://github.com/flyonthewalldev/PulsePlan) & [SeqImprove](https://github.com/MyersResearchGroup/SeqImprove)
+- 🌱 I’m currently working on [PulsePlan](https://github.com/flyonthewalldev/PulsePlan) & [Timbrality](https://github.com/connergroth/Timbrality)
 
 # Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=ts,js,cpp,c,python,react,nextjs,nodejs,flask,fastapi,pytorch,postgres,supabase,redis,docker&perline=17)](https://skillicons.dev)
