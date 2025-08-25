@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Conner Groth! </h1>
 
 # About Me
-- ⛰️ CS & Business student @ CU Boulder
+- ⛰️ CS + Business student @ CU Boulder
 - 🤖 ML Engineer Intern @ Sorcea
 - 🏥 AI Engineer Intern @ Soaper
-- 🧬 Undergraduate Researcher & SWE @ Genetic Logic Lab
-- 💼 Software Engineer Team Lead @ Blueprint Boulder
+- 💼 Team Lead @ Blueprint Boulder
+- 🧬 Undergraduate Researcher @ Genetic Logic Lab
 - 🌱 I’m currently working on [PulsePlan](https://github.com/flyonthewalldev/PulsePlan) & [Timbrality](https://github.com/connergroth/Timbrality)
 
 # Tech Stack
