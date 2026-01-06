@@ -5,7 +5,7 @@
 - 🤖 AI SWE @ IM
 - 💼 Team Lead @ Blueprint Boulder
 - 🧬 Undergraduate Researcher @ Genetic Logic Lab
-- 🌱 I’m currently working on [Sifted](https://github.com/flyonthewallai/Sifted-Public)
+- 🌱 I’m currently working on [Sift](https://github.com/flyonthewallai/Sift-Public)
 
 # Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=ts,js,cpp,c,python,react,nextjs,nodejs,flask,fastapi,pytorch,postgres,supabase,redis,docker&perline=17)](https://skillicons.dev)
