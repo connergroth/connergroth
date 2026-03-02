@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Conner Groth! </h1>
+<h1 align="center">Hi, I'm Conner Groth </h1>
 
 # About Me
 - ⛰️ CS + Business student @ CU Boulder
