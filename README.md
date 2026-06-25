@@ -2,7 +2,6 @@
 
 # About Me
 -  SWE Intern @ Apple
-- Currently working on [Sift](https://github.com/lucencelabs/Sift-Public)
 
 # Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=ts,js,cpp,c,python,react,nextjs,nodejs,flask,fastapi,pytorch,postgres,supabase,redis,docker&perline=17)](https://skillicons.dev)
